@@ -1,0 +1,2 @@
+# Riesgo-cardio-reno-metabolico
+SISTEMA PREDICTIVO BASADO EN INTELIGENCIA ARTIFICIAL Y METODOLOGÍA DIALYSIS PARA IDENTIFICACIÓN Y SEGUIMIENTO DEL RIESGO CARDIO-RENO-METABÓLICO  Analisis Predictivo con Machine Learning Dataset: Hipertensión Arterial México (ENSANUT 2022) — 4,363 registros
